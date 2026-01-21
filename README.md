@@ -27,5 +27,6 @@ Desafio proposto pela professora [Aline Antunes](https://github.com/alinealien).
         git config --global user.email "taty.freitas201616@gmail.com" --> para adicionar o meu email
         ```
         E repeti os comandos do passo 1.
-        
+        Após fazer novamente o `git push` ele já pede automaticamente as credenciais e reaiza o comando.
+
 
