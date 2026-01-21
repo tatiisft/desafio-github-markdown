@@ -20,13 +20,28 @@ Desafio proposto pela professora [Aline Antunes](https://github.com/alinealien).
         git commit -m "Alterações no projeto" --> Fazendo o commit
         git push origin main --> para enviar os commits
         ```
-    2. Tive um erro de autenticação no `git push`
-        Para resolver esse problema usei o seguintes comandos do Git Bash
+    2. Tive um erro de autenticação no `git push`. Para resolver esse problema usei o seguintes comandos do Git Bash:
         ```
         git config --global user.name "tatiisft" --> para adicionar meu usuário
         git config --global user.email "taty.freitas201616@gmail.com" --> para adicionar o meu email
         ```
-        E repeti os comandos do passo 1.
-        Após fazer novamente o `git push` ele já pede automaticamente as credenciais e reaiza o comando.
+        E repeti os comandos do passo 1. Após fazer novamente o `git push` ele já pede automaticamente as credenciais e realiza o comando.
+    
+4. Abrir Issues (Feito pelo colaborador).
+    > Issues --> New issue --> Add um titulo e uma descrição.
+    O colaborador (colocar o @) me sugeriu ....
+    Eu resolvi de tal forma 
+    E respondi sua issue marcando com o fixed #1
+
+5. Criar nova branch e realize o merge.
+    ```
+    git branch v1 --> cria a branch
+    git checkout v1 --> troca a branch
+    ```
+    Realizei alterações no README.md, voltei para a main e fiz o merge:
+    ```
+    git branch v1 --> cria a branch
+    git checkout v1 --> troca a branch
+    ```
 
 
