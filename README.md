@@ -4,12 +4,12 @@
 Desafio proposto pela professora [Aline Antunes](https://github.com/alinealien). Com os seguintes objetivos propostos: [acessar desafio](https://github.com/alinealien/desafio-github-markdown.git).
 
 -----
-*Desafios:*
+### 💥*Desafios:*
 1. Adicionar colaborador.
     Adicionei o colaborador através das Configurações do próprio GitHub.
     >Settings --> Collaborators --> Manage access --> Add people
 
-2. Clonar repositório.
+2. Clonar repositório. <br/>
     `git clone https://github.com/tatiisft/desafio-github-markdown.git`
 
 3. Realizar alterações e commits.
@@ -29,11 +29,11 @@ Desafio proposto pela professora [Aline Antunes](https://github.com/alinealien).
     
 4. Abrir Issues (Feito pelo colaborador).
     > Issues --> New issue --> Add um titulo e uma descrição.
-    O colaborador (colocar o @) me sugeriu ....
-    Eu resolvi de tal forma 
-    E respondi sua issue marcando com o fixed #1
+    
+    O colaborador me sugeriu algumas modificações que serão incluidas aqui.
+    Eu resolvi, e respondi sua issue marcando com o fixed #2
 
-5. Criar nova branch e realize o merge.
+6. Criar nova branch e realize o merge.
     ```
     git branch v1 --> cria a branch
     git checkout v1 --> troca a branch
@@ -51,6 +51,14 @@ Desafio proposto pela professora [Aline Antunes](https://github.com/alinealien).
     git commit -m "incluindo branch v1" 
     git push origin v1
     ```
-6. Realizar pull request (feito pelo colaborador).
-    
+7. Realizar pull request (feito pelo colaborador). <br/>
     Realizei alterações no README.md, subi o codigo com a branch v2, para que a desenvolvedora faça o pull request pelo github.
+
+   ---
+### 🌟*Sessão de Aprendizado*
+
+    [x] Aprendi novos comandos na prática
+    [x] Pesquisar informações complementares
+    [x] Lidar com inconsitências e resolve-las
+    [x] Colaboração com colegas
+    
