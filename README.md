@@ -51,4 +51,6 @@ Desafio proposto pela professora [Aline Antunes](https://github.com/alinealien).
     git commit -m "incluindo branch v1" 
     git push origin v1
     ```
-
+6. Realizar pull request (feito pelo colaborador).
+    
+    Realizei alterações no README.md, subi o codigo com a branch v2, para que a desenvolvedora faça o pull request pelo github.
