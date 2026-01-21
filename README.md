@@ -30,3 +30,4 @@ Desafio proposto pela professora [Aline Antunes](https://github.com/alinealien).
         Após fazer novamente o `git push` ele já pede automaticamente as credenciais e reaiza o comando.
 
 
+Perdi o resto dos dados?
