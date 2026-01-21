@@ -40,8 +40,15 @@ Desafio proposto pela professora [Aline Antunes](https://github.com/alinealien).
     ```
     Realizei alterações no README.md, voltei para a main e fiz o merge:
     ```
-    git branch v1 --> cria a branch
-    git checkout v1 --> troca a branch
+    git checkout main 
+    git merge v1 
     ```
-
+    Voltei para branch v1 e fiz o push dela para o repositório remoto.
+    ```
+    git checkout v1 
+    git status 
+    git add . 
+    git commit -m "incluindo branch v1" 
+    git push origin v1
+    ```
 
